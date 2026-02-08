@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7ff;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+h2, h3 {
+    margin-top: 20px;
+}
+
+form {
+    margin: 12px 0 20px 0;
+}
+
+button {
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: none;
+    background: #2563eb;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #1d4ed8;
+}
+
+.result-card {
+    background: #eef2ff;
+    padding: 16px;
+    margin: 16px auto;
+    width: 80%;
+    max-width: 700px;
+    border-radius: 10px;
+}
+
+.result-card strong {
+    display: block;  
+    margin: 6px 0;
+}
